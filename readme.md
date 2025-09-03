@@ -25,4 +25,4 @@ Libraries:
 
 csv → for reading/writing expenses
 
-os → for file handling
+os → for file handling.
